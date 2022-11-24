@@ -6,3 +6,6 @@ def test_another_1():
 
 def test_another_10():
     assert 0 == 0
+
+def test_another_10():
+    assert 0 == 0
